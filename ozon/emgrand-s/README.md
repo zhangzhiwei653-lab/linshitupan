@@ -1,0 +1,1 @@
+Emgrand S Ozon 商品图片：main 为 SKU 主图，detail 为共用详情图。
